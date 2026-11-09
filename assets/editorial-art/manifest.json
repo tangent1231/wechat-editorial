@@ -1,0 +1,35 @@
+[
+  {
+    "id": "glass-workspace",
+    "label": "玻璃科技共创",
+    "source": "OpenAI image generation tool",
+    "model": "not exposed by tool",
+    "prompt": "Create a sophisticated wide 16:9 editorial hero illustration for a general company article about turning ideas into collective action. Premium tactile 3D scene: frosted-glass modular archways and looping translucent cyan/lavender ribbons connect three sculptural work platforms, with a small blank notebook, sculptural keyboard and a glowing sphere as focal objects. Rich layered depth, precise materials, elegant studio lighting, subtle caustics, soft ice blue backdrop, vivid restrained periwinkle and apricot accents. Art-directed magazine campaign image, not a UI wireframe or infographic. Balanced panoramic composition, all objects fully inside canvas. No text, letters, numbers, logos, people, watermark or realistic event claims.",
+    "file": "glass-workspace.jpg",
+    "original": "glass-workspace-original.png",
+    "role": "AI concept illustration; not documentary photography",
+    "generated": "2026-11-07"
+  },
+  {
+    "id": "paper-community",
+    "label": "纸艺共创花园",
+    "source": "OpenAI image generation tool",
+    "model": "not exposed by tool",
+    "prompt": "Create a beautiful wide 16:9 handcrafted paper-cut editorial illustration about people sharing ideas and growing together. An imaginative community garden assembled from layered colored paper: small abstract faceless paper figures gather around a round table with blank cards, folded leaves, oversized flowers, paper stairways and small warm glowing lanterns. Cream, moss green, terracotta, butter yellow and soft dusty blue. Rich paper texture and delicate cut edges, convincing dimensional shadows, refined Japanese editorial collage mood, not childish clipart, no stock infographic. Dense enough to reward looking but clear central composition. No readable text, letters, numbers, logos, watermark, and no portrayal of a real company or real event.",
+    "file": "paper-community.jpg",
+    "original": "paper-community-original.png",
+    "role": "AI concept illustration; not documentary photography",
+    "generated": "2026-11-07"
+  },
+  {
+    "id": "material-stilllife",
+    "label": "自然材质品牌静物",
+    "source": "OpenAI image generation tool",
+    "model": "not exposed by tool",
+    "prompt": "Create a high-end wide 16:9 editorial still life for a lifestyle and brand journal about creativity and collaboration. Artful arrangement on a warm limestone table: an open blank cream notebook with curled pages, a translucent amber glass circle, a sculptural brushed steel loop, a folded linen fabric, a tiny branch of green leaves and three ceramic shapes. Side-lit morning sun, beautiful long soft shadows, tactile paper and stone grain, quiet architectural backdrop, elegant asymmetry with an open area, refined cream / ink blue / warm amber palette. Photorealistic materials but clearly a staged conceptual still life, no people, no products with identifying brands, no text, typography, logos, numbers or watermark.",
+    "file": "material-stilllife.jpg",
+    "original": "material-stilllife-original.png",
+    "role": "AI concept illustration; not documentary photography",
+    "generated": "2026-11-07"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "briefcase",
+    "label": "公文包",
+    "svg": "briefcase.svg",
+    "png": "briefcase.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "chart",
+    "label": "增长图",
+    "svg": "chart.svg",
+    "png": "chart.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "shield",
+    "label": "保障",
+    "svg": "shield.svg",
+    "png": "shield.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "calendar",
+    "label": "日历",
+    "svg": "calendar.svg",
+    "png": "calendar.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "book",
+    "label": "知识书本",
+    "svg": "book.svg",
+    "png": "book.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "bulb",
+    "label": "灵感",
+    "svg": "bulb.svg",
+    "png": "bulb.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "target",
+    "label": "目标",
+    "svg": "target.svg",
+    "png": "target.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "leaf",
+    "label": "自然",
+    "svg": "leaf.svg",
+    "png": "leaf.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "mic",
+    "label": "分享话筒",
+    "svg": "mic.svg",
+    "png": "mic.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "megaphone",
+    "label": "发布",
+    "svg": "megaphone.svg",
+    "png": "megaphone.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "rocket",
+    "label": "启程",
+    "svg": "rocket.svg",
+    "png": "rocket.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "cart",
+    "label": "购物",
+    "svg": "cart.svg",
+    "png": "cart.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "globe",
+    "label": "全球",
+    "svg": "globe.svg",
+    "png": "globe.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "people",
+    "label": "团队",
+    "svg": "people.svg",
+    "png": "people.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "pin",
+    "label": "地点",
+    "svg": "pin.svg",
+    "png": "pin.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "heart",
+    "label": "关怀",
+    "svg": "heart.svg",
+    "png": "heart.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "document",
+    "label": "文档",
+    "svg": "document.svg",
+    "png": "document.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "camera",
+    "label": "影像",
+    "svg": "camera.svg",
+    "png": "camera.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "clock",
+    "label": "时间",
+    "svg": "clock.svg",
+    "png": "clock.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "cpu",
+    "label": "芯片",
+    "svg": "cpu.svg",
+    "png": "cpu.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "mail",
+    "label": "邮件",
+    "svg": "mail.svg",
+    "png": "mail.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "box",
+    "label": "产品",
+    "svg": "box.svg",
+    "png": "box.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "chat",
+    "label": "交流",
+    "svg": "chat.svg",
+    "png": "chat.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  },
+  {
+    "id": "play",
+    "label": "播放",
+    "svg": "play.svg",
+    "png": "play.png",
+    "source": "original code-authored vector",
+    "category": "general editorial"
+  }
+]

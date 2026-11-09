@@ -1,0 +1,26 @@
+[
+  {
+    "file": "signal-line.gif",
+    "fallback": "signal-line.png",
+    "size": [
+      720,
+      96
+    ],
+    "frames": 60,
+    "durationSeconds": 6,
+    "source": "Original procedural artwork; scripts/make_motion_assets.py",
+    "platformStatus": "Not imported or verified in Xiumi/WeChat"
+  },
+  {
+    "file": "warm-orbit.gif",
+    "fallback": "warm-orbit.png",
+    "size": [
+      720,
+      96
+    ],
+    "frames": 60,
+    "durationSeconds": 6,
+    "source": "Original procedural artwork; scripts/make_motion_assets.py",
+    "platformStatus": "Not imported or verified in Xiumi/WeChat"
+  }
+]

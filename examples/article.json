@@ -1,0 +1,92 @@
+{
+  "title": "把一个好想法，变成一次共同的行动",
+  "subtitle": "品牌开放日 · 内容与版式演示",
+  "meta": "虚构内容，仅用于样式测试",
+  "intro": "一篇活动推文，可以从参与者真正关心的问题出发。这里用虚构的开放日展示如何组织导语、现场、分享与后续行动；所有插图均为装饰素材。",
+  "sections": [
+    {
+      "label": "相遇",
+      "title": "先听见具体的问题",
+      "paragraphs": [
+        "开篇交代活动背景和读者为什么值得继续阅读。正式写作时，在这里填入经过核对的时间、地点、参与对象和活动目的。",
+        "照片应当帮助读者认识现场，而非单纯填满版面。没有真实照片时，使用明确标注的插画或保留素材位置。"
+      ],
+      "images": [
+        {
+          "file": "../assets/editorial-art/glass-workspace.jpg",
+          "caption": "AI 概念插画 · 玻璃科技共创（非活动照片）"
+        },
+        {
+          "file": "../assets/editorial-art/paper-community.jpg",
+          "caption": "AI 概念插画 · 纸艺共创花园（非活动照片）"
+        },
+        {
+          "file": "../assets/editorial-art/material-stilllife.jpg",
+          "caption": "AI 概念插画 · 自然材质静物（非活动照片）"
+        }
+      ]
+    },
+    {
+      "label": "共创",
+      "title": "让想法有一个清晰的下一步",
+      "paragraphs": [
+        "这一节可以介绍活动的核心内容、讨论过程或实际成果。用具体行动和可核对的材料，说明哪些问题已经得到回答、哪些仍需要继续探索。"
+      ],
+      "bullets": [
+        "读者获得了什么信息",
+        "现场产生了哪些值得延续的交流",
+        "下一步如何参与或获取材料"
+      ],
+      "images": [
+        {
+          "file": "../assets/icons/book.png",
+          "caption": "原创线性图标 · 知识与记录",
+          "role": "ornament"
+        }
+      ]
+    },
+    {
+      "label": "延续",
+      "title": "把交流带到活动之后",
+      "paragraphs": [
+        "结尾应回应文章开头的问题，补充真实有效的参与入口。没有确认链接、二维码或署名时，不自动填入其他公司的资料。"
+      ]
+    }
+  ],
+  "closing": "让下一次交流，从一个具体的问题开始。",
+  "cover": "../assets/editorial-art/paper-community.jpg",
+  "coverAlt": "AI 概念插画，非真实活动照片",
+  "coverMotionSafe": true,
+  "variantCovers": {
+    "corporate": "../assets/editorial-art/glass-workspace.jpg",
+    "launch": "../assets/editorial-art/glass-workspace.jpg",
+    "technology": "../assets/editorial-art/glass-workspace.jpg",
+    "report": "../assets/editorial-art/glass-workspace.jpg",
+    "editorial": "../assets/editorial-art/paper-community.jpg",
+    "education": "../assets/editorial-art/paper-community.jpg",
+    "event": "../assets/editorial-art/paper-community.jpg",
+    "nonprofit": "../assets/editorial-art/paper-community.jpg",
+    "lifestyle": "../assets/editorial-art/material-stilllife.jpg",
+    "interview": "../assets/editorial-art/material-stilllife.jpg",
+    "minimal": "../assets/editorial-art/material-stilllife.jpg",
+    "luxury": "../assets/editorial-art/material-stilllife.jpg"
+  },
+  "coverOrnaments": {
+    "technology": {
+      "file": "../assets/soft3d/keyboard-160.png",
+      "alt": "AI 装饰插画 · 键盘"
+    },
+    "event": {
+      "file": "../assets/soft3d/balloons-160.png",
+      "alt": "AI 装饰插画 · 气球"
+    },
+    "education": {
+      "file": "../assets/soft3d/code-160.png",
+      "alt": "AI 装饰插画 · 代码"
+    },
+    "launch": {
+      "file": "../assets/soft3d/code-160.png",
+      "alt": "AI 装饰插画 · 代码"
+    }
+  }
+}

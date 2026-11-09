@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generator": "built-in image_gen",
+  "model": "not exposed by tool",
+  "purpose": "AI-generated editorial ornaments, not official UCup logos or real trophies",
+  "assets": [
+    {
+      "id": "balloons",
+      "label": "气球",
+      "file": "balloons-512.png",
+      "small": "balloons-160.png",
+      "original": "balloons-original.png",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "sha256": "793c13c5fcf9a84a852d521e2957e5d057945931704dd07d3bb7aa89c75be2f6",
+      "prompt": "Use case: stylized-concept. Asset type: single reusable transparent PNG editorial ornament for Universal Cup competitive programming event articles. Premium playful soft 3D illustration, satin ceramic mixed with translucent frosted glass, coherent ice blue, periwinkle lavender, cyan and small warm apricot accent. Soft studio lighting from upper left, clean silhouette, refined not childish, readable when used at 60-160px. Square canvas, object centered fully visible, generous 12% transparent padding all around. Actual transparent background, no backdrop, no ground plane, no scene. No logos, watermark, letters, typography, border or icon tile. Subject: a small bunch of exactly three elegant floating balloons, one ice blue, one lavender, one soft cyan, tied with thin gracefully curving blue ribbons. Celebratory event ornament. Use moderately saturated colors that read on near-white backgrounds."
+    },
+    {
+      "id": "code",
+      "label": "代码窗口",
+      "file": "code-512.png",
+      "small": "code-160.png",
+      "original": "code-original.png",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "sha256": "7bc458a15f763fb15d5185a3f478fd894228d12cd54d304afea4049a7a2bd3fc",
+      "prompt": "Use case: stylized-concept. Asset type: single reusable transparent PNG editorial ornament for Universal Cup competitive programming event articles. Premium playful soft 3D illustration, satin ceramic mixed with translucent frosted glass, coherent ice blue, periwinkle lavender, cyan and small warm apricot accent. Soft studio lighting from upper left, clean silhouette, refined not childish, readable when used at 60-160px. Square canvas, object centered fully visible, generous 12% transparent padding all around. Actual transparent background, no backdrop, no ground plane, no scene. No logos, watermark, letters, typography, border or icon tile. Subject: one floating compact rounded frosted-glass coding window, tilted slightly in isometric perspective, with three small dots in its upper bar and a bold sculptural </> symbol in the middle. A few short abstract horizontal code bars below. Symbol is a decorative programming sign, no actual text or pseudo-letters."
+    },
+    {
+      "id": "keyboard",
+      "label": "机械键盘",
+      "file": "keyboard-512.png",
+      "small": "keyboard-160.png",
+      "original": "keyboard-original.png",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "sha256": "79e0dc37f67ca28e008b66e6e97a6bfa8eda374868e101d46406f24ae4e8b9c0",
+      "prompt": "Use case: stylized-concept. Asset type: single reusable transparent PNG editorial ornament for Universal Cup competitive programming event articles. Premium playful soft 3D illustration, satin ceramic mixed with translucent frosted glass, coherent ice blue, periwinkle lavender, cyan and small warm apricot accent. Soft studio lighting from upper left, clean silhouette, refined not childish, readable when used at 60-160px. Square canvas, object centered fully visible, generous 12% transparent padding all around. Actual transparent background, no backdrop, no ground plane, no scene. No logos, watermark, letters, typography, border or icon tile. Subject: one compact mechanical computer keyboard in three-quarter isometric perspective, white and ice-blue keycaps, a few lavender and cyan accent keys, one warm apricot key. Clear regular keyboard key rows with a long spacebar. No key legends or letters. Simple thick clean geometry."
+    },
+    {
+      "id": "trophy",
+      "label": "装饰奖杯",
+      "file": "trophy-512.png",
+      "small": "trophy-160.png",
+      "original": "trophy-original.png",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "sha256": "0cdd097c3f42ea26745305e78202adb97925819f7da188a3792e0c26f30085e6",
+      "prompt": "Use case: stylized-concept. Asset type: single reusable transparent PNG editorial ornament for Universal Cup competitive programming event articles. Premium playful soft 3D illustration, satin ceramic mixed with translucent frosted glass, coherent ice blue, periwinkle lavender, cyan and small warm apricot accent. Soft studio lighting from upper left, clean silhouette, refined not childish, readable when used at 60-160px. Square canvas, object centered fully visible, generous 12% transparent padding all around. Actual transparent background, no backdrop, no ground plane, no scene. No logos, watermark, letters, typography, border or icon tile. Subject: one sculptural competition trophy, brushed warm pale gold cup with two elegant handles, mounted on a short frosted lavender pedestal. Tiny ice-blue sparkle to one side. Not a logo, not a real award replica. Clean strong cup silhouette."
+    }
+  ]
+}

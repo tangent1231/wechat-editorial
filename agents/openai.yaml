@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用推文工作室"
+  short_description: "为不同品牌写稿、设计多款推文并交付可编辑富文本"
+  default_prompt: "使用 $wechat-editorial，根据本篇稿件、素材与品牌资料，主动完成三款不同版式、素材整理和交付检查。"
